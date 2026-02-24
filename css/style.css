@@ -1,0 +1,341 @@
+body{}
+.hero_banner{
+    width: 100%;
+    height: 1420px;
+    background: url(../images/Untitled\ design\ \(4\).png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: -87px;
+    
+}
+
+.nevee_color{
+    background: transparent;
+}
+.header_manu{
+    background: transparent;
+}
+.top_logo{
+padding-right: 369px;
+}
+.battion_color{
+    border: none;
+    background: #000;
+    color: #fff;
+}
+.herobabba{
+        padding-left: 311px;
+    padding-top: 288px;
+}
+.herobabba h1{
+   width: 560px;
+    font-size: 72px;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: -4px;
+    line-height: 65px;
+}
+.herobabba p{
+    width: 533px;
+    font-size: 18px;
+    line-height: 23px;
+    margin-top: 13px;
+}
+.useful-business{
+  width: 100%;
+    height: 581px;
+    background: #efefef;
+    margin-top: -193px;
+}
+.useful-business_title{
+        padding-top: 84px;
+    padding-bottom: 32px;
+}
+.useful-business_title h1{
+    font-size: 58px;
+    font-family: "Poppins", sans-serif;
+}
+.useful-business_title p{
+    font-size: 20px;
+}
+.care_werwqr{
+    border: none;
+}
+
+.parwrw{}
+.kfdjsfgjos{
+    width: 100vw;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.kfdjsfgjos h3{
+       font-family: "Poppins", sans-serif;
+    line-height: 35px;
+    font-size: 30px;
+    
+}
+.nevee_color{}
+.Results_taaf{
+   width: 100%;
+    height: 581px;
+    background: #efefef;
+    margin-top: 69px;
+}
+.titlere{
+    padding-top: 79px;
+}
+.titlere h1{
+    font-family: "Poppins", sans-serif;
+    width: 371px;
+    margin-left: 367px;
+    line-height: 41px;
+}
+.titlere p{
+    font-size: 20px;
+}
+.sine_dsf{
+       width: 871px;
+    background: #fff;
+    padding: 36px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px #d9d9d9;
+    margin-left: 120px;
+    margin-top: 26px;
+}
+.sine_dsf h3{
+   width: 587px;
+    font-size: 28px;
+    line-height: 29px;
+}
+.proefile{
+    margin-top: 35px;
+}
+.proefile img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.proefile h1{
+    margin-left: 61px;
+    margin-top: -50px;
+    font-size: 28px;
+}
+.proefile p{
+     margin-left: 61px;
+    margin-top: -7px;
+}
+.compatible_business{
+   margin-top: 101px;
+}
+.sdfgdfg{}
+.sdfgdfg h1{
+   width: 344px;
+    line-height: 45px;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 43px;
+    letter-spacing: -2px;
+}
+
+.hgjklkjhkh img{
+    width: 400px;
+    height: 650px;
+    border-radius: 20px;
+}
+.asked_questions{
+   margin-top: 92px;
+}
+.safdkhsfsdf-OJ{}
+.safdkhsfsdf-OJ h1{
+    width: 331px;
+}
+.safdkhsfsdf-OJ p{
+    width: 348px;
+}
+.dsfjkhsdf_uyfd{
+   background: #000;
+    color: #fff;
+    margin-top: 45px;
+}
+.hesdfsader_manu{
+    margin-top: 35px;
+
+}
+.sdfjsdhf_jhj{}
+.sdfjsdhf_jhj img{ 
+    width: 200px;
+    margin-left: 463px;
+}
+.copyee{
+    margin-top: 35px;
+}
+
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:425px){
+
+body{}
+.hero_banner{
+    width: 100%;
+        height: 943px;
+        background: url(../images/mobailsd.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-top: -134px;
+    
+}
+
+.nevee_color{
+    
+}
+.header_manu{
+    
+}
+.top_logo{
+
+}
+.battion_color{
+    
+}
+.herobabba{
+     
+}
+.herobabba h1{
+        width: 256px;
+        font-size: 42px;
+        font-family: "Poppins", sans-serif;
+        letter-spacing: -4px;
+        line-height: 46px;
+        margin: -70px 0px 0px -216px;
+}
+.herobabba p{
+  width: 252px;
+        font-size: 14px;
+        line-height: 23px;
+        margin: 0px 0px 0px -213px;
+}
+.useful-business{
+  height:757px;
+}
+.useful-business_title{
+       padding-top: 38px;
+        padding-bottom: 0px;
+       
+}
+.useful-business_title h1{
+            font-size: 28px;
+}
+.useful-business_title p{
+    font-size: 14px;
+        width: 219px;
+        margin: 0px 0px 17px 81px;
+}
+.care_werwqr{
+    margin: 0px 0px 14px 0px;
+}
+
+.parwrw{}
+.kfdjsfgjos{
+    width: 100vw;
+        margin-left: 0px;
+        margin-top: 0px;
+}
+.kfdjsfgjos h3{
+      line-height: 24px;
+        font-size: 15px;
+        margin: 28px 0px 0px 0px;
+        width: 380px;
+        text-align: justify;
+        letter-spacing: -1px;
+    
+}
+.nevee_color{}
+.Results_taaf{
+   
+}
+.titlere{
+padding: 36px 0px 0px 0px;
+}
+.titlere h1{
+    font-family: "Poppins", sans-serif;
+        margin: 0px 0px 0px 0px;
+        line-height: 26px;
+    
+}
+.titlere p{
+           font-size: 14px;
+        margin: 13px 0px 0px 0px;
+}
+.sine_dsf{
+     width: 316px;
+        margin: 15px 0px 0px 25px;
+}
+.sine_dsf h3{
+   width: 249px;
+        font-size: 18px;
+        line-height: 26px;
+}
+.proefile{
+    
+}
+.proefile img{
+    
+}
+.proefile h1{
+    margin-left: 74px;
+        margin-top: -49px;
+        font-size: 18px;
+}
+.proefile p{
+            margin: 0px 0px 0px 73px;
+        font-size: 14px;
+        line-height: 16px;
+        width: 160px;
+}
+.compatible_business{
+   
+}
+.sdfgdfg{}
+.sdfgdfg h1{
+            line-height: 31px;
+        font-family: "Poppins", sans-serif;
+        margin-bottom: 31px;
+        letter-spacing: -2px;
+}
+
+.hgjklkjhkh img{
+    width: 351px;
+        height: 566px;
+        border-radius: 20px;
+        margin: 36px 0px -30px 0px
+   
+}
+.asked_questions{
+   
+}
+.safdkhsfsdf-OJ{}
+.safdkhsfsdf-OJ h1{
+    
+}
+.safdkhsfsdf-OJ p{
+   
+}
+.dsfjkhsdf_uyfd{
+   
+}
+.hesdfsader_manu{
+   
+
+}
+.sdfjsdhf_jhj{}
+.sdfjsdhf_jhj img{ 
+        width: 126px;
+        margin: 0px 0px 0px 140px
+}
+.copyee{
+    
+}
+
+
+
+}
